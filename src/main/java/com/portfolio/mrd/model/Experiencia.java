@@ -13,6 +13,7 @@ public class Experiencia {
         private int id;
         private String nombreE;
         private String descripcionE;
+       
 
         
      //Constructores
@@ -48,6 +49,8 @@ public class Experiencia {
     public void setDescripcionE(String descripcionE) {
         this.descripcionE = descripcionE;
     }
-        
+
+    
+    
         
 }
